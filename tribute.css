@@ -1,0 +1,68 @@
+
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #ff6633;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+
+    padding: 20px;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 2.5rem;
+    color: white;
+    text-align: center;
+
+}
+h3{
+    font-family:'Cambria, Cochin', serif,  Times, serif;
+    color: white;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    /* background-image:linear-gradient(#ff6633,#ffcc33); */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+img{
+    width: 400px;
+    height: 500px;
+    position: relative;
+    margin-left: 200px;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.1) ;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #ff6633;
+}
+
+p, ul {
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ff6633;
+    color: white;
+
+}
+
+
